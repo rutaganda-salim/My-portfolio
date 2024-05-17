@@ -189,9 +189,7 @@ export const clients = [
   {
     image: profile3,
     name: 'Mugabe Joseph',
-    review: `Collaborating with Salim was truly delightful. 
-    His unwavering professionalism and commitment led to outstanding results, surpassing all my expectations. 
-    I wholeheartedly endorse his services.`
+    review: `Collaborating with Salim was truly delightful and rewarding. His unwavering professionalism and commitment led to outstanding results, surpassing all my expectations. I wholeheartedly endorse his excellent services.`
   },
   {
     image: profile4,
